@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Skeppr
-- 👀 I’m interested in minecraft plugins/mods, downloaders and other useful stuff
-- 🌱 I’m currently learning HTML5
-- 💞️ I’m looking to collaborate on nothing, i just want to download stuff
-- 📫 How to reach me : email me to luca7flore@gmail.com
+uhhhhhhhh i mostly rectify grammar errors in readmes and do pull requests just to annoy people
